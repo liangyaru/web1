@@ -1,0 +1,23 @@
+.honor{ 
+	font-size:14px;
+}
+.honor:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+
+ul.disc{
+	list-style-type:disc;
+}
+.back4{
+	background-image: url(../images/pic_bg.gif);
+	background-repeat: repeat-x;
+}
+.back5{
+	background-image: url(../images/menutitle.gif);
+}
+.back6{
+	background-image:url(../images/menuhover.gif);
+}
+
+	

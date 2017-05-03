@@ -1,0 +1,45 @@
+body{
+	color:gray;
+	font-size:12px;
+	font-family:Arial;
+	line-height:2em;
+}
+a:link{
+	color:#727272;
+	text-decoration:none; 
+}
+a:hover{
+	text-decoration:underline;
+}
+.menu{
+	font-size:14px;
+	font-weight:bolder;
+	color:#b9f605;
+}
+.color:link{
+	color:white;
+}
+.color:visited{
+	color:white;
+}
+.color:hover{
+	color:#b9f605;
+	text-decoration:none;
+	font-weight:1em;
+}
+#special{
+	color:#fdb306;
+}
+ul{
+	list-style-type:none;
+}
+.back{
+	background-image:url(../images/foot_bg.gif);
+	background-repeat: repeat-x;
+}
+.back1{
+	background-image: url("../images/bg.gif");
+}
+.back2{
+	background-image: url("../images/banner.jpg");
+}

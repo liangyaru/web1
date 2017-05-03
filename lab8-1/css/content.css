@@ -1,0 +1,22 @@
+h1{
+	font-size:20px;
+	font-weight:normal;
+	font-family:'微软雅黑';
+	color:#686868;
+}
+h2{
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#a9a8a8;
+}
+.font_next{
+	color:#22a3d3;
+}
+.passage{
+	text-indent:2em;
+}
+.back7{
+	background-image: url(../images/pic_bg.gif);
+	background-repeat: repeat-x;
+}
