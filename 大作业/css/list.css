@@ -1,0 +1,165 @@
+.content{
+	width:1000px;
+	height:800px;
+}
+.top{
+	width:1000px;
+	height:50px;
+	float:left;
+}
+.left{
+	width:150px;
+	height:800px;
+	float:left;
+}
+.left_box1{
+	width:150px;
+	height:260px;
+}
+.left_box2{
+	width:150px;
+	height:220px;
+}
+.box20{
+	margin:0px;
+	margin-top:40px;
+	text-align: center;
+}
+.box21{
+	width:150px;
+	margin:0px;
+	height:5px;
+	background-image:url(../images/2.jpg);
+}
+.box22{
+	width:150px;
+	height:195px;
+}
+.right{
+	width:750px;
+	height:750px;
+	margin-left:100px;
+	float:left;
+}
+.sear:link{
+	color:black;
+}
+.sear:visited{
+	color:black;
+}
+.sear:hover{
+	color:#008B8B;
+}
+.sear_one{
+	display: block;
+	position:relative;
+	top:10px;
+}
+.list_o{
+	line-height: 50px;
+	border-bottom:1px solid black;
+	text-align: center;
+}
+.left_a{
+	display:block;
+	width:black;
+}
+.left_a:link{
+	color:black;
+}
+.left_a:hover{
+	background-image: url(../images/2.jpg);
+}
+.left_a:visited{
+	color:black;
+}
+.er{
+	display:block;
+	width:black;
+}
+.er:link{
+	color:black;
+	background-image: url(../images/2.jpg);
+}
+.er:hover{
+	background-image: url(../images/2.jpg);
+}
+.er:visited{
+	color:black;
+	background-image: url(../images/2.jpg);
+}
+.renews{
+
+}
+.right_h2{
+	margin:0px;
+}
+.right_box1{
+	width:750px;
+	margin:0px;
+	height:5px;
+	background-image:url(../images/2.jpg);
+}
+.right_box2{
+	width:750px;
+	height:650px;
+	margin-top:5px;
+}
+.right_box3{
+	width:750px;
+	height:40px;
+	margin-top:10px;
+	text-align: center;
+}
+.reliist{
+	line-height: 40px;
+}
+.mingwen{
+	width:135px;
+	height:75px;
+}
+.box2_back{
+	text-align: center;
+}
+.box_tu{
+	width:700px;
+	height:200px;
+}
+.list_box2_li{
+	line-height:40px;
+}
+.list_a:link{
+	color:black;
+}
+.list_a:visited{
+	color:black;
+}
+.list_a:hover{
+	color:#008B8B;
+}
+.shuzi1{
+	float:left;
+}
+.shuzi{
+	display:block;
+	float:left;
+	width:22px;
+	height:25px;
+	border:1px solid black;
+	text-align: center;
+	position: relative;
+	bottom:4px;
+	left:10px;
+	margin-left:10px;
+}
+.shuzi2{
+	margin-left:20px;
+	position: relative;
+	right:110px;
+}
+.shuzi3{
+	display:block;
+	float:left;
+	position:relative;
+	left:15px;
+}

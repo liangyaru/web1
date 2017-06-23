@@ -1,0 +1,134 @@
+body{
+	color:black;
+	font-size:16px;
+	font-weight:bold;
+	font-family:'宋体';
+}
+ul{
+	margin:0px;
+	padding:0px;
+}
+div{
+	margin:0px auto;
+	padding:0px;
+	border:0px;
+}
+img{
+	border:0px;
+}
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration: none;	
+}
+.header{
+	height:125px;
+}
+.first{
+	height:125px;
+	background-image:url(../images/banner2.jpg);
+}
+.pic{
+	display: block;
+	position:relative;
+	top:10px;
+	left:70px;
+}
+.second{
+	width:1000px;
+	height:150px;
+}
+/*.banner{
+	width:1000px;
+	height:150px;
+}*/
+.header_one{
+	width:316px;
+	height:125px;
+	float:left;
+}
+.header_two{
+	width:710px;
+	height:125px;
+	float:left;
+}
+
+.leader_one{
+	float:left;
+	width:85px;
+	height:30px;
+	position:relative;
+	top:55px;
+}
+.leader_two:link{
+	color:#ccc;
+}
+.leader_two:hover{
+	color:white;
+	font-weight:bold;
+	}
+.leader_two:active{
+	color:white;
+	font-weight:bold;
+}
+.leader_two{
+	color:#ccc;
+}
+.leader_three:link{
+	font-weight:bold;
+	color:white;
+}
+.leader_three:hover{
+	color:#008B8B;
+	font-weight:bold;
+	}
+.leader_three:active{
+	color:white;
+	font-weight:bold;
+}
+.leader_three{
+	font-weight:bold;
+	color:white;
+}
+.header_three{
+	width:220px;
+	height:125px;
+	float:left;
+}
+.search_one{
+	position:relative;
+	top:50px;
+}
+.search_two{
+	position:relative;
+	top:50px;
+}
+.foot{
+	background-image:url(../images/banner2.jpg);
+	height:50px;
+	color:white;
+	font-size:12px;
+	text-align:center;
+}
+.foot_span{
+	display:block;
+	position:relative;
+	top:10px;
+}
+.denglu{
+	color:white;
+	display:block;
+	position:relative;
+	left:50px; 
+	top:10px;
+}
+.denglu_a:link{
+	color:white;
+}
+.denglu_a:visited{
+	color:white;
+}
+.denglu_a:hover{
+	color:#008B8B;
+}
